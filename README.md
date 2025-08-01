@@ -1,5 +1,7 @@
 # Taurus_book_project
 Key Features
+
+
 Dual-Mode Recommender:
 Find Similar Books: A content-based recommender that uses a cosine similarity model to find books similar to a title you like.
 Filter by Metadata: A flexible search that uses the Google Books API to find books by author, genre, and publication year, complete with fresh data and working cover images.
