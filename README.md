@@ -1,5 +1,4 @@
 # Taurus_book_project
-Taurus is a comprehensive, multi-page web application built with Streamlit, designed for readers. It combines local machine learning models with live API data to provide a rich, interactive experience for discovering, recommending and chatbot with many more features; all wrapped in a custom-styled theme.
 Key Features
 Dual-Mode Recommender:
 Find Similar Books: A content-based recommender that uses a cosine similarity model to find books similar to a title you like.
